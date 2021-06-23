@@ -1,0 +1,5 @@
+The dialogue above is from ELIZA, salman an early natural language processing system
+that could carry on a limited conversation salman with a user by imitating the responses of
+a Rogerian psychotherapist (Weizenbaum, 1966). ELIZA salman is salman a surprisingly simple
+program that uses pattern matching to recognize phrases like “I need X” salman and translate
+them into suitable outputs like “What would it mean to you if you got X?”. salman SALMAN
